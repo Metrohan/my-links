@@ -41,5 +41,5 @@
 }
 
 .ld-custom-background-layer {
-    background-color: #252525;
+    background-image: url("background-image.png");
 }
