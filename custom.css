@@ -36,6 +36,10 @@
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
 }
 
+.ld-custom-description {
+    color: #ff6600
+}
+
 .ld-custom-background-layer {
     background-color: #252525;
 }
